@@ -102,7 +102,7 @@
                         "code": "BMETEKTMsCKPLG-00",
                         "name": "Kognitív pszichológia laboratóriumi gyakorlat",
                         "credits": 9,
-                        "prerequisites": ["BBMETEKTMsCBKPS-00"]
+                        "prerequisites": ["BMETEKTMsCBKPS-00"]
                     },
                     {
                         "code": "BMETEKTMsCPTP2-00",

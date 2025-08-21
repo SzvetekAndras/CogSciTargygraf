@@ -1,8 +1,6 @@
 {
     "name": "Számítógépes és kognitív idegtudomány",
-
     "description": "Számítógépes és kognitív idegtudomány MSc mintatanterve 2025 előtt kezdett hallgatóknak",
-
     "curriculum_updated_at": "2024-01-01",
         "course_blocks": [
             {
@@ -99,7 +97,7 @@
                         "code": "BMETEKTMsCKPLG-00",
                         "name": "Kognitív pszichológia laboratóriumi gyakorlat",
                         "credits": 9,
-                        "prerequisites": ["BMETEKTMsCBKPS-00"]
+                        "prerequisites": ["BMETE47MC25"]
                     },
                     {
                         "code": "___OPTIONAL___",
