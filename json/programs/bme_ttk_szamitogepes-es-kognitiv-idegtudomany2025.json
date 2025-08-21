@@ -261,8 +261,7 @@
                     {
                         "code": "BMETEKTMsCGTVA-00",
                         "name": "Gépi tanulás viselkedéses adatokon",
-                        "credits": 3,
-                        "prerequisites": ["BMETEKTMsCBKTU-00"]
+                        "credits": 3
                     },
                     {
                         "code": "BMETE47MC24",
