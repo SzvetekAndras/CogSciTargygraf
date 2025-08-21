@@ -201,10 +201,9 @@
                 "row": 1,
                 "courses": [
                     {
-                        "code": "BMETE47MC26",
+                        "code": "BMETEKTMsCSTRK-00",
                         "name": "Stressz és kogníció",
-                        "credits": 3,
-                        "prerequisites": ["BMETEKTMsCSTRK-00"]
+                        "credits": 3
                     },
                     {
                         "code": "BMEGT41M410",
